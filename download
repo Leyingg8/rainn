@@ -1,0 +1,21 @@
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (si en el futuro se compila Tailwind)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# Entorno
+.env
+.env.local
+
+# Editores
+.vscode/
+.idea/
+*.swp
